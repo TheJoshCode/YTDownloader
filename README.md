@@ -50,6 +50,3 @@ I have worked in AI and Software Dev for 5 years now. I recently was let go from
 ## Notes
 
 - **Quality Limitation**: Downloads are limited to 1080p because higher resolutions (e.g., 4K) require FFmpeg, which isn’t included to keep this a standalone executable.
-- **Windows Only**
-
----
