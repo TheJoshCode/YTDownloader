@@ -1,5 +1,7 @@
 ![Main Window](https://i.imgur.com/b4K8Aof.png)
 
+## I DO NOT CONDONE OR SUPPORT DOWNLOADING COPYRIGHTED CONTENT!
+
 # YTDownloader
 
 A simple, standalone GUI application to download YouTube videos in the highest available quality (up to 1080p) without requiring any additional software installations.
