@@ -1,6 +1,6 @@
-![Main Window](https://i.imgur.com/b4K8Aof.png)
-
 ## I DO NOT CONDONE OR SUPPORT DOWNLOADING COPYRIGHTED CONTENT!
+
+![Main Window](https://i.imgur.com/b4K8Aof.png)
 
 # YTDownloader
 
