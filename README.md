@@ -1,3 +1,5 @@
+![Main Window](https://i.imgur.com/b4K8Aof.png)
+
 # YTDownloader
 
 A simple, standalone GUI application to download YouTube videos in the highest available quality (up to 1080p) without requiring any additional software installations.
@@ -40,12 +42,6 @@ I have worked in AI and Software Dev for 5 years now. I recently was let go from
    - Choose a save location and filename when prompted.
    - Watch the progress bar as the video downloads.
    - A success message will appear when the download is complete.
-
----
-
-# Screenshots
-
-![Main Window](https://i.imgur.com/b4K8Aof.png)
 
 ---
 
